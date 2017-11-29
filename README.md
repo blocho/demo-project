@@ -1,4 +1,4 @@
-# demo-project
+# Demo Project
 
 ### with @borenho & @blocho
 
